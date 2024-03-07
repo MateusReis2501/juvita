@@ -1,0 +1,81 @@
+* {
+    margin:0;
+    padding: 0;
+   
+}
+
+
+nav {
+    text-align: center;
+    display: flex;
+    gap: 45%;   
+}
+h3 {
+    padding: 50px;
+
+}
+.search-form {
+    position: relative;
+    margin: 20px;
+}
+.search-bar{
+    width: 200px;
+    position: relative;
+    padding: 8px;
+    border: 1px solid #ccc;
+    margin-top: 50px;
+    width:  461px;
+    height: 64px;
+    justify-content: space-between;
+    display: flex;
+    font-size: 28px;
+}
+
+.search-icon {
+    position: relative;
+    top: -50px;
+    right: -200px;
+    width: 100%;
+    height: 70px;
+    font-size: 28px;
+}
+
+.menu-burger {
+    font-size: 80px;
+    margin-right: 70px;
+    padding: 20px;
+    margin-top: 25px;  
+}
+ 
+.pesquisa{
+    display: flex;
+    gap: 20%;  
+   
+}
+img{
+    width: 300px;
+}
+
+.chamada h2 p{
+    position: relative;
+}
+/* .chamada img {
+    justify-content: space-between;
+    width:100%;
+    height: auto;
+} */
+.linha {
+    border: 0;
+    height: 1px;
+    background-color:#ec8922;
+    margin-top: 50px;
+    padding: 10px;  
+}
+
+.chamada {
+    width: 100%;
+    height: auto;
+    background-image: url(../img/suco-de-laranja-fresco-e-frio.jpg);
+    opacity: 1;
+
+}
